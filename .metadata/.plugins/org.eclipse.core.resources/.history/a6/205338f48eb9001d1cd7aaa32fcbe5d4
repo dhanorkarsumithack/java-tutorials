@@ -1,0 +1,13 @@
+package Testing;
+
+
+
+public class Login {
+    
+    public boolean authenticate(String username, String password) {
+        // Authenticates the user and returns true if successful
+        // or false if the authentication fails
+        return username.equals("user") && password.equals("password");
+    }
+}
+

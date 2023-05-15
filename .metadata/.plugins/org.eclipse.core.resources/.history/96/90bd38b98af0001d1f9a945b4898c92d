@@ -1,0 +1,8 @@
+package com.sumit.pack1;
+
+public class StreamMethods {
+
+	public static void main(String[] args) {
+		
+	}
+}

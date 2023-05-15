@@ -1,0 +1,22 @@
+package com.sumit.pack1;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class StreamBasic {
+
+	public static void main(String[] args) {
+		List<Integer> list=new ArrayList<>();
+		
+		list.add(23);
+	    list.add(233);
+	    list.add(22);
+	    list.add(44);
+	    list.add(42);
+	    
+	    System.out.println(list);
+	    
+	    
+	    
+	}
+}

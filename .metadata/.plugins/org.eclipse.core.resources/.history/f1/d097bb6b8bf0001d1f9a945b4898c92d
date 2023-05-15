@@ -1,0 +1,12 @@
+package com.sumit.pack1;
+
+public class StreamMethods {
+
+	public static void main(String[] args) {
+		
+		//filter(predicates) where predicates =boolean value function
+		//e->{ return true or false } or e->true or e-> condition
+		
+		//map
+	}
+}

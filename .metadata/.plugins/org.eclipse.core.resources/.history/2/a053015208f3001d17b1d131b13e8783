@@ -1,0 +1,27 @@
+package com.sumit.Linkedlist;
+
+import java.util.LinkedList;
+
+public class Linkedlist2 {
+
+	public static void main(String[] args) {
+		LinkedList l=new LinkedList();
+		
+		l.add("X");
+		l.add("y");
+		l.add("Z");
+		l.add("A");
+		l.add("B");
+		l.add("C");
+		
+		LinkedList l1 =new LinkedList();
+		
+		l1.add("M");
+		l1.add("N");
+		l1.add("O");
+		
+		l.addAll(l1);
+		System.out.println(l);
+		
+	}
+}

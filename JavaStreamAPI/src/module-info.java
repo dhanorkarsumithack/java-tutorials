@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sumitd
+ *
+ */
+module JavaStreamAPI {
+}

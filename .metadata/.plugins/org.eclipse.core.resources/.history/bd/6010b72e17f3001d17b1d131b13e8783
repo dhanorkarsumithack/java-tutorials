@@ -1,0 +1,12 @@
+package com.sumit.LinkedHashset;
+
+import java.util.LinkedHashSet;
+
+public class Linkedhashset1 {
+
+	public static void main(String[] args) {
+		
+		//declare
+		LinkedHashSet<Integer> lset=new LinkedHashSet<>();
+	}
+}
