@@ -13,7 +13,7 @@ public class Linkedhashset1 {
 		lset.add(100);
 		lset.add(200);
 		lset.add(300);
-		lset.add(2);
+		lset.add(400);
 		lset.add(500);
 		lset.add(600);
 
